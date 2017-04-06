@@ -1,0 +1,227 @@
+[class*="col"]{
+  border: 1px solid black;
+  height: 100px;
+  box-sizing: border-box;
+  margin: 10px 0;
+  border-collapse: collapse;
+  overflow: hidden;
+}
+#header{
+  .sliderCaption{
+    .col-md-4,
+    .col-md-8{
+      height: 400px;
+    }
+  }
+}
+#content{
+  .timeTable{
+    .col-md-6{
+      height: 300px;
+    }
+  }
+  .choose{
+    .col-md-4{
+      height: 200px;
+    }
+  }
+  .services{
+    .col-md-4{
+      height: 400px;
+    }
+  }
+  .sheshqosha{
+    .col-md-6{
+      height: 500px;
+      .qualties{
+        .col-md-5{
+          height: 300px;
+        }
+      }
+      .testominals{
+        .col-md-5{
+          height: 300px;
+        }
+      }
+    }
+  }
+.teamDiv{
+  .col-md-12{
+    height: 600px;
+    .col-md-12{
+      height: 100px;
+    }
+    .team{
+      .col-md-4{
+        height: 450px;
+      }
+    }
+  }
+}
+.featuredDiv{
+  .col-md-12:first-child{
+    height: 700px;
+    .featuredHead{
+      .col-md-12{
+        height: 100px;
+      }
+    }
+    .features{
+      .col-md-3{
+        height: 400px;
+      }
+    }
+    .featuresButton{
+      .col-md-12{
+        height: 100px;
+      }
+    }
+  }
+}
+.book{
+  .col-md-12{
+    height: 400px;
+  }
+}
+.map{
+  .col-md-12{
+    height: 500px;
+  }
+}
+.contact{
+  .col-md-4{
+    height: 400px;
+  }
+}
+}
+#footer{
+    .footer{
+      .col-md-4{
+        height: 150px;
+      }
+    }
+}
+#welcome{
+  .menu{
+    .col-md-12{
+      margin-bottom: -10px;
+      margin-top: -35px;
+      height: 50px;
+      border-color: red;
+    }
+  }
+  .about{
+    .col-md-12{
+      height: 300px;
+    }
+  }
+}
+#contentAbout{
+  .fewWords{
+    .col-md-8,.col-md-4{
+      height: 400px;
+    }
+  }
+  .achivement{
+    .col-md-4,.col-md-8{
+      height: 500px;
+    }
+  }
+  .teamMembers{
+    .col-md-3{
+      height: 300px;
+    }
+  }
+  .testominalsDiv{
+    .big{
+      height: 500px;
+    }
+    .little{
+      height: 100px;
+    }
+  }
+  .testominals{
+    .col-md-4{
+      height: 300px
+    }
+  }
+}
+#footerAbout{
+  .col-md-4{
+    height: 300px;
+  }
+}
+#welcomeTeam {
+  .menu{
+    .col-md-12{
+      margin-bottom: -10px;
+      margin-top: -35px;
+      height: 50px;
+      border-color: red;
+      background-color: blue;
+    }
+  }
+  .about{
+    .col-md-12{
+      height: 300px;
+    }
+  }
+}
+#contentTeam{
+  .teamPhoto{
+    .col-md-3{
+      height: 350px;
+    }
+  }
+  .layout{
+    .col-md-2{
+      width: 20% !important;
+      height: 350px;
+    }
+  }
+  .threeColumns{
+    .col-md-4{
+      height: 250px;
+    }
+  }
+}
+#footerTeam{
+  .col-md-4{
+    height: 300px;
+  }
+}
+#welcomeServices{
+  .menu{
+    .col-md-12{
+      margin-bottom: -10px;
+      margin-top: -35px;
+      height: 50px;
+      border-color: red;
+      background-color: blue;
+    }
+  }
+  .about{
+    .col-md-12{
+      height: 300px;
+    }
+  }
+}
+#contentServices{
+  .col-md-3,.col-md-9{
+    height: 700px;
+  }
+  .col-md-9{
+    .col-md-12:first-child{
+      height: 100px;
+    }
+    .col-md-12{
+      height: 500px;
+      margin-right: 5px;
+    }
+  }
+}
+#footerServices{
+  .col-md-4{
+    height: 300px;
+  }
+}
